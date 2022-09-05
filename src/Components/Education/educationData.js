@@ -1,7 +1,7 @@
 const educationData = [
   {
     degree: "Full Stack Development ( MERN )",
-    university: "GUVI Geek private limited, IIT Madras Research Park",
+    university: " private limited IIT",
     date: "Jan 2021 - Aug 2022",
     // score:"",
     points: [
